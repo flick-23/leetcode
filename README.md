@@ -7,6 +7,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/flick-23/leetcode/tree/master/0210-course-schedule-ii) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/flick-23/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
@@ -48,4 +49,16 @@
 |  |
 | ------- |
 | [0967-minimum-falling-path-sum](https://github.com/flick-23/leetcode/tree/master/0967-minimum-falling-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/flick-23/leetcode/tree/master/0210-course-schedule-ii) |
+## Graph
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/flick-23/leetcode/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/flick-23/leetcode/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
