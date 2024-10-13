@@ -32,8 +32,10 @@
 |  |
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/flick-23/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/flick-23/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/flick-23/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/flick-23/leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
