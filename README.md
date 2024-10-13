@@ -54,6 +54,7 @@
 | [0940-fruit-into-baskets](https://github.com/flick-23/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/flick-23/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1073-number-of-enclaves](https://github.com/flick-23/leetcode/tree/master/1073-number-of-enclaves) |
+| [2227-sum-of-subarray-ranges](https://github.com/flick-23/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,4 +115,12 @@
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/flick-23/leetcode/tree/master/0940-fruit-into-baskets) |
+## Stack
+|  |
+| ------- |
+| [2227-sum-of-subarray-ranges](https://github.com/flick-23/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2227-sum-of-subarray-ranges](https://github.com/flick-23/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
