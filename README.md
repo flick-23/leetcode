@@ -1,6 +1,3 @@
-# leetcode
-DSA in CPP
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Tree
