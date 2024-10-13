@@ -51,6 +51,7 @@
 | [0198-house-robber](https://github.com/flick-23/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/flick-23/leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/flick-23/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0735-asteroid-collision](https://github.com/flick-23/leetcode/tree/master/0735-asteroid-collision) |
 | [0940-fruit-into-baskets](https://github.com/flick-23/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/flick-23/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/flick-23/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -121,4 +122,12 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/flick-23/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/flick-23/leetcode/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/flick-23/leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
