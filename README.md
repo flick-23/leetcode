@@ -55,6 +55,7 @@
 | [0213-house-robber-ii](https://github.com/flick-23/leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/flick-23/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0735-asteroid-collision](https://github.com/flick-23/leetcode/tree/master/0735-asteroid-collision) |
+| [0912-random-pick-with-weight](https://github.com/flick-23/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0940-fruit-into-baskets](https://github.com/flick-23/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/flick-23/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/flick-23/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/flick-23/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0912-random-pick-with-weight](https://github.com/flick-23/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/flick-23/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## String Matching
 |  |
@@ -128,6 +130,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0912-random-pick-with-weight](https://github.com/flick-23/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/flick-23/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Stack
 |  |
@@ -146,4 +149,12 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/flick-23/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Math
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/flick-23/leetcode/tree/master/0912-random-pick-with-weight) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/flick-23/leetcode/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
