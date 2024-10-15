@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/flick-23/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/flick-23/leetcode/tree/master/0031-next-permutation) |
 | [0768-partition-labels](https://github.com/flick-23/leetcode/tree/master/0768-partition-labels) |
 ## String
 |  |
@@ -55,6 +56,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/flick-23/leetcode/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/flick-23/leetcode/tree/master/0045-jump-game-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/flick-23/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/flick-23/leetcode/tree/master/0198-house-robber) |
