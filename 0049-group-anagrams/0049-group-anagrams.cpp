@@ -4,13 +4,12 @@ public:
         unordered_map<string, vector<string>>mpp;
         vector<vector<string>>ans;
         for(string str: strs){
-            string temp = str;
-            sort(temp.begin(), temp.end());
-            mpp[temp].push_back(str);
+            string key = str;
+            sort(key.begin(), key.end());
+            mpp[key].push_back(str);
         }
         for(auto it : mpp){
-            vector<string>temp = it.second;
-            ans.push_back(temp);
+            ans.push_back(it.second);
         }
         return ans;
     }
