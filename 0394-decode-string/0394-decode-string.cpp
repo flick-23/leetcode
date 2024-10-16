@@ -14,8 +14,7 @@ public:
             st.pop();
         }
         reverse(temp.begin(), temp.end());
-        int n = stoi(temp);
-        return n;
+        return stoi(temp);
     }
     string decodeString(string s) {
         int n = s.length();
