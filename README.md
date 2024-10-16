@@ -76,6 +76,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/flick-23/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/flick-23/leetcode/tree/master/1073-number-of-enclaves) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/flick-23/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/flick-23/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0213-house-robber-ii](https://github.com/flick-23/leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/flick-23/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/flick-23/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/flick-23/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Matrix
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/flick-23/leetcode/tree/master/0049-group-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/flick-23/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/flick-23/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Counting
 |  |
 | ------- |
