@@ -28,6 +28,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/flick-23/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/flick-23/leetcode/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/flick-23/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/flick-23/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/flick-23/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/flick-23/leetcode/tree/master/0768-partition-labels) |
@@ -48,6 +49,7 @@
 | [0214-shortest-palindrome](https://github.com/flick-23/leetcode/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/flick-23/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/flick-23/leetcode/tree/master/0394-decode-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/flick-23/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/flick-23/leetcode/tree/master/0768-partition-labels) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/flick-23/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1508-longest-happy-prefix](https://github.com/flick-23/leetcode/tree/master/1508-longest-happy-prefix) |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/flick-23/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/flick-23/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/flick-23/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/flick-23/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
