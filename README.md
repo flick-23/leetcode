@@ -31,6 +31,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/flick-23/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/flick-23/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/flick-23/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0648-replace-words](https://github.com/flick-23/leetcode/tree/master/0648-replace-words) |
 | [0768-partition-labels](https://github.com/flick-23/leetcode/tree/master/0768-partition-labels) |
 | [0940-fruit-into-baskets](https://github.com/flick-23/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/flick-23/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -51,6 +52,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/flick-23/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/flick-23/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/flick-23/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0648-replace-words](https://github.com/flick-23/leetcode/tree/master/0648-replace-words) |
 | [0768-partition-labels](https://github.com/flick-23/leetcode/tree/master/0768-partition-labels) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/flick-23/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1508-longest-happy-prefix](https://github.com/flick-23/leetcode/tree/master/1508-longest-happy-prefix) |
@@ -73,6 +75,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/flick-23/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0525-contiguous-array](https://github.com/flick-23/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/flick-23/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0648-replace-words](https://github.com/flick-23/leetcode/tree/master/0648-replace-words) |
 | [0735-asteroid-collision](https://github.com/flick-23/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/flick-23/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/flick-23/leetcode/tree/master/0912-random-pick-with-weight) |
@@ -202,4 +205,8 @@
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/flick-23/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/flick-23/leetcode/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
