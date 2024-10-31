@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/flick-23/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/flick-23/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/flick-23/leetcode/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/flick-23/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/flick-23/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/flick-23/leetcode/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/flick-23/leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/flick-23/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/flick-23/leetcode/tree/master/0049-group-anagrams) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/flick-23/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
