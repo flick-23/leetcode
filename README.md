@@ -45,6 +45,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/flick-23/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/flick-23/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/flick-23/leetcode/tree/master/0031-next-permutation) |
 | [0768-partition-labels](https://github.com/flick-23/leetcode/tree/master/0768-partition-labels) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/flick-23/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/flick-23/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/flick-23/leetcode/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/flick-23/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/flick-23/leetcode/tree/master/0038-count-and-say) |
@@ -101,6 +103,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/flick-23/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/flick-23/leetcode/tree/master/0045-jump-game-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/flick-23/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/flick-23/leetcode/tree/master/0198-house-robber) |
