@@ -73,6 +73,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/flick-23/leetcode/tree/master/0045-jump-game-ii) |
 | [0768-partition-labels](https://github.com/flick-23/leetcode/tree/master/0768-partition-labels) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/flick-23/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/flick-23/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Array
 |  |
@@ -95,6 +96,7 @@
 | [0940-fruit-into-baskets](https://github.com/flick-23/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/flick-23/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/flick-23/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/flick-23/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/flick-23/leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/flick-23/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/flick-23/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
