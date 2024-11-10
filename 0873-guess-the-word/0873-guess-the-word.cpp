@@ -26,7 +26,7 @@ public:
             for (int j = 0; j < words.size(); ++j)
                 if (match(w, words[j]) == m)
                     t.push_back(words[j]);
-            words = std::move(t);
+            words = t;
         }
     }
 };
