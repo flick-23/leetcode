@@ -49,6 +49,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/flick-23/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/flick-23/leetcode/tree/master/0031-next-permutation) |
 | [0768-partition-labels](https://github.com/flick-23/leetcode/tree/master/0768-partition-labels) |
+| [0827-expressive-words](https://github.com/flick-23/leetcode/tree/master/0827-expressive-words) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/flick-23/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/flick-23/leetcode/tree/master/0648-replace-words) |
 | [0768-partition-labels](https://github.com/flick-23/leetcode/tree/master/0768-partition-labels) |
+| [0827-expressive-words](https://github.com/flick-23/leetcode/tree/master/0827-expressive-words) |
 | [0873-guess-the-word](https://github.com/flick-23/leetcode/tree/master/0873-guess-the-word) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/flick-23/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1508-longest-happy-prefix](https://github.com/flick-23/leetcode/tree/master/1508-longest-happy-prefix) |
@@ -92,6 +94,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/flick-23/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/flick-23/leetcode/tree/master/0648-replace-words) |
 | [0735-asteroid-collision](https://github.com/flick-23/leetcode/tree/master/0735-asteroid-collision) |
+| [0827-expressive-words](https://github.com/flick-23/leetcode/tree/master/0827-expressive-words) |
 | [0873-guess-the-word](https://github.com/flick-23/leetcode/tree/master/0873-guess-the-word) |
 | [0907-koko-eating-bananas](https://github.com/flick-23/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/flick-23/leetcode/tree/master/0912-random-pick-with-weight) |
