@@ -128,6 +128,7 @@
 | [0198-house-robber](https://github.com/flick-23/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/flick-23/leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/flick-23/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0552-student-attendance-record-ii](https://github.com/flick-23/leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0863-sum-of-distances-in-tree](https://github.com/flick-23/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0967-minimum-falling-path-sum](https://github.com/flick-23/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/flick-23/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
