@@ -109,6 +109,7 @@
 | [0912-random-pick-with-weight](https://github.com/flick-23/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0940-fruit-into-baskets](https://github.com/flick-23/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/flick-23/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0983-validate-stack-sequences](https://github.com/flick-23/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1046-max-consecutive-ones-iii](https://github.com/flick-23/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/flick-23/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/flick-23/leetcode/tree/master/1073-number-of-enclaves) |
@@ -215,6 +216,7 @@
 | ------- |
 | [0394-decode-string](https://github.com/flick-23/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/flick-23/leetcode/tree/master/0735-asteroid-collision) |
+| [0983-validate-stack-sequences](https://github.com/flick-23/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/flick-23/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/flick-23/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Simulation
@@ -222,6 +224,7 @@
 | ------- |
 | [0289-game-of-life](https://github.com/flick-23/leetcode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/flick-23/leetcode/tree/master/0735-asteroid-collision) |
+| [0983-validate-stack-sequences](https://github.com/flick-23/leetcode/tree/master/0983-validate-stack-sequences) |
 ## Sorting
 |  |
 | ------- |
