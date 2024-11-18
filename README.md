@@ -43,6 +43,7 @@
 | [0648-replace-words](https://github.com/flick-23/leetcode/tree/master/0648-replace-words) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/flick-23/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0768-partition-labels](https://github.com/flick-23/leetcode/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/flick-23/leetcode/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/flick-23/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1207-delete-nodes-and-return-forest](https://github.com/flick-23/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/flick-23/leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -85,6 +86,7 @@
 | [0045-jump-game-ii](https://github.com/flick-23/leetcode/tree/master/0045-jump-game-ii) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/flick-23/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0768-partition-labels](https://github.com/flick-23/leetcode/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/flick-23/leetcode/tree/master/0876-hand-of-straights) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/flick-23/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/flick-23/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/flick-23/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -107,6 +109,7 @@
 | [0735-asteroid-collision](https://github.com/flick-23/leetcode/tree/master/0735-asteroid-collision) |
 | [0827-expressive-words](https://github.com/flick-23/leetcode/tree/master/0827-expressive-words) |
 | [0873-guess-the-word](https://github.com/flick-23/leetcode/tree/master/0873-guess-the-word) |
+| [0876-hand-of-straights](https://github.com/flick-23/leetcode/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/flick-23/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/flick-23/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0940-fruit-into-baskets](https://github.com/flick-23/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -234,6 +237,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/flick-23/leetcode/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/flick-23/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0876-hand-of-straights](https://github.com/flick-23/leetcode/tree/master/0876-hand-of-straights) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/flick-23/leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/flick-23/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/flick-23/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
