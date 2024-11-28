@@ -53,6 +53,7 @@
 | [0876-hand-of-straights](https://github.com/flick-23/leetcode/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/flick-23/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1207-delete-nodes-and-return-forest](https://github.com/flick-23/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1249-snapshot-array](https://github.com/flick-23/leetcode/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/flick-23/leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/flick-23/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/flick-23/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -132,6 +133,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/flick-23/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/flick-23/leetcode/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/flick-23/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1249-snapshot-array](https://github.com/flick-23/leetcode/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/flick-23/leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1380-number-of-closed-islands](https://github.com/flick-23/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/flick-23/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -194,6 +196,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/flick-23/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/flick-23/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1249-snapshot-array](https://github.com/flick-23/leetcode/tree/master/1249-snapshot-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -204,6 +207,7 @@
 | [0907-koko-eating-bananas](https://github.com/flick-23/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/flick-23/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/flick-23/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1249-snapshot-array](https://github.com/flick-23/leetcode/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/flick-23/leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/flick-23/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String Matching
