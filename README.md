@@ -121,6 +121,7 @@
 | [0648-replace-words](https://github.com/flick-23/leetcode/tree/master/0648-replace-words) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/flick-23/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0735-asteroid-collision](https://github.com/flick-23/leetcode/tree/master/0735-asteroid-collision) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/flick-23/leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0827-expressive-words](https://github.com/flick-23/leetcode/tree/master/0827-expressive-words) |
 | [0873-guess-the-word](https://github.com/flick-23/leetcode/tree/master/0873-guess-the-word) |
 | [0876-hand-of-straights](https://github.com/flick-23/leetcode/tree/master/0876-hand-of-straights) |
@@ -152,6 +153,7 @@
 | [0410-split-array-largest-sum](https://github.com/flick-23/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/flick-23/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0552-student-attendance-record-ii](https://github.com/flick-23/leetcode/tree/master/0552-student-attendance-record-ii) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/flick-23/leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0863-sum-of-distances-in-tree](https://github.com/flick-23/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0967-minimum-falling-path-sum](https://github.com/flick-23/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/flick-23/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
