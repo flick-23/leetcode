@@ -384,4 +384,8 @@
 |  |
 | ------- |
 | [0976-minimum-area-rectangle](https://github.com/flick-23/leetcode/tree/master/0976-minimum-area-rectangle) |
+## Backtracking
+|  |
+| ------- |
+| [1361-tiling-a-rectangle-with-the-fewest-squares](https://github.com/flick-23/leetcode/tree/master/1361-tiling-a-rectangle-with-the-fewest-squares) |
 <!---LeetCode Topics End-->
