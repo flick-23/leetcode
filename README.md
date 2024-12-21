@@ -11,6 +11,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/flick-23/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/flick-23/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/flick-23/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/flick-23/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [1380-number-of-closed-islands](https://github.com/flick-23/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/flick-23/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/flick-23/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/flick-23/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -35,6 +37,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/flick-23/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/flick-23/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/flick-23/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/flick-23/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +199,7 @@
 | [1380-number-of-closed-islands](https://github.com/flick-23/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/flick-23/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/flick-23/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/flick-23/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
