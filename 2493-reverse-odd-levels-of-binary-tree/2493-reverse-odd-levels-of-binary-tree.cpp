@@ -1,29 +1,38 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
- * };
- */
 class Solution {
 public:
-    void reverseLevels(TreeNode* left, TreeNode*right, int level){
-        if(!left || !right){
-            return;
-        }
-        if(level % 2 == 0){
-            swap(left->val, right->val);
-        }
-        reverseLevels(left->left, right->right, level+1);
-        reverseLevels(left->right, right->left, level+1);
-    }
     TreeNode* reverseOddLevels(TreeNode* root) {
-        reverseLevels(root->left, root->right, 0);
+        if (!root) return root; // Handle edge case
+        
+        queue<TreeNode*> q;
+        q.push(root);
+        bool reverse = false;
+
+        while (!q.empty()) {
+            int size = q.size();
+            vector<TreeNode*> levelNodes;
+
+            // Collect nodes at the current level
+            for (int i = 0; i < size; ++i) {
+                TreeNode* node = q.front();
+                q.pop();
+                levelNodes.push_back(node);
+                if (node->left) q.push(node->left);
+                if (node->right) q.push(node->right);
+            }
+
+            // Reverse values at the odd levels
+            if (reverse) {
+                int left = 0, right = levelNodes.size() - 1;
+                while (left < right) {
+                    swap(levelNodes[left]->val, levelNodes[right]->val);
+                    ++left;
+                    --right;
+                }
+            }
+            
+            reverse = !reverse; // Toggle reverse for the next level
+        }
+
         return root;
     }
 };
