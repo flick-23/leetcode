@@ -1,7 +1,7 @@
 #include <vector>
 #include <queue>
 #include <tuple>
-
+#include <unordered_set>
 using namespace std;
 
 class Solution {
@@ -14,29 +14,29 @@ public:
         int dx[] = {-1, 0, 1, 0};
         int dy[] = {0, 1, 0, -1};
         
+        // Priority queue for BFS: max-heap by remaining health
+        priority_queue<tuple<int, int, int>> pq; // {remaining health, row, col}
+        
         // Initial health after the first cell
         int initialHealth = health - grid[0][0];
         if (initialHealth <= 0) return false;
         
-        // Queue for BFS: (row, col, remaining health)
-        queue<tuple<int, int, int>> q;
-        q.emplace(0, 0, initialHealth);
+        // Visited set to track states (row, col, remaining health)
+        vector<vector<int>> maxHealth(rows, vector<int>(cols, -1));
+        maxHealth[0][0] = initialHealth;
+        pq.emplace(initialHealth, 0, 0);
         
-        // Visited array to track (row, col, remaining health)
-        vector<vector<vector<bool>>> visited(rows, vector<vector<bool>>(cols, vector<bool>(health + 1, false)));
-        visited[0][0][initialHealth] = true;
-        
-        while (!q.empty()) {
-            auto [r, c, h] = q.front();
-            q.pop();
+        while (!pq.empty()) {
+            auto [h, r, c] = pq.top();
+            pq.pop();
             
             // If we've reached the bottom-right corner with positive health
-            if (r == rows - 1 && c == cols - 1 && h > 0) {
+            if (r == rows - 1 && c == cols - 1) {
                 return true;
             }
             
             // Explore all four possible directions
-            for (int i = 0; i < 4; ++i) {
+            for (int i = 0; i < 4; i++) {
                 int nr = r + dx[i];
                 int nc = c + dy[i];
                 
@@ -44,10 +44,10 @@ public:
                 if (nr >= 0 && nr < rows && nc >= 0 && nc < cols) {
                     int newHealth = h - grid[nr][nc];
                     
-                    // Proceed if the new health is positive and the state hasn't been visited
-                    if (newHealth > 0 && !visited[nr][nc][newHealth]) {
-                        visited[nr][nc][newHealth] = true;
-                        q.emplace(nr, nc, newHealth);
+                    // Proceed if the new health is positive and improves the current state
+                    if (newHealth > 0 && newHealth > maxHealth[nr][nc]) {
+                        maxHealth[nr][nc] = newHealth;
+                        pq.emplace(newHealth, nr, nc);
                     }
                 }
             }
