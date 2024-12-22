@@ -100,6 +100,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/flick-23/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/flick-23/leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1508-longest-happy-prefix](https://github.com/flick-23/leetcode/tree/master/1508-longest-happy-prefix) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/flick-23/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/flick-23/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Greedy
 |  |
@@ -160,6 +161,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/flick-23/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/flick-23/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/flick-23/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/flick-23/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/flick-23/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
@@ -210,6 +212,7 @@
 | [0547-number-of-provinces](https://github.com/flick-23/leetcode/tree/master/0547-number-of-provinces) |
 | [0863-sum-of-distances-in-tree](https://github.com/flick-23/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/flick-23/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/flick-23/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/flick-23/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
@@ -411,5 +414,6 @@
 ## Shortest Path
 |  |
 | ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/flick-23/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/flick-23/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
