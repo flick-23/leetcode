@@ -322,6 +322,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/flick-23/leetcode/tree/master/0007-reverse-integer) |
 | [0873-guess-the-word](https://github.com/flick-23/leetcode/tree/master/0873-guess-the-word) |
 | [0912-random-pick-with-weight](https://github.com/flick-23/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0976-minimum-area-rectangle](https://github.com/flick-23/leetcode/tree/master/0976-minimum-area-rectangle) |
