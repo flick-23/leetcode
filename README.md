@@ -41,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/flick-23/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/flick-23/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/flick-23/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/flick-23/leetcode/tree/master/0049-group-anagrams) |
@@ -116,6 +117,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/flick-23/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/flick-23/leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/flick-23/leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/flick-23/leetcode/tree/master/0045-jump-game-ii) |
