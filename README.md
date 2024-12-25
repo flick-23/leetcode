@@ -149,6 +149,7 @@
 | [0907-koko-eating-bananas](https://github.com/flick-23/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/flick-23/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0940-fruit-into-baskets](https://github.com/flick-23/leetcode/tree/master/0940-fruit-into-baskets) |
+| [0943-sum-of-subarray-minimums](https://github.com/flick-23/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/flick-23/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0976-minimum-area-rectangle](https://github.com/flick-23/leetcode/tree/master/0976-minimum-area-rectangle) |
 | [0983-validate-stack-sequences](https://github.com/flick-23/leetcode/tree/master/0983-validate-stack-sequences) |
@@ -185,6 +186,7 @@
 | [0552-student-attendance-record-ii](https://github.com/flick-23/leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/flick-23/leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0863-sum-of-distances-in-tree](https://github.com/flick-23/leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [0943-sum-of-subarray-minimums](https://github.com/flick-23/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/flick-23/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/flick-23/leetcode/tree/master/1129-longest-string-chain) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/flick-23/leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -298,6 +300,7 @@
 | ------- |
 | [0394-decode-string](https://github.com/flick-23/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/flick-23/leetcode/tree/master/0735-asteroid-collision) |
+| [0943-sum-of-subarray-minimums](https://github.com/flick-23/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-validate-stack-sequences](https://github.com/flick-23/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/flick-23/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/flick-23/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -351,6 +354,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/flick-23/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/flick-23/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/flick-23/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Trie
