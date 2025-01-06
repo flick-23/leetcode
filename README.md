@@ -44,6 +44,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/flick-23/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/flick-23/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/flick-23/leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/flick-23/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/flick-23/leetcode/tree/master/0049-group-anagrams) |
 | [0299-bulls-and-cows](https://github.com/flick-23/leetcode/tree/master/0299-bulls-and-cows) |
@@ -86,6 +87,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/flick-23/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/flick-23/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/flick-23/leetcode/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/flick-23/leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/flick-23/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/flick-23/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/flick-23/leetcode/tree/master/0049-group-anagrams) |
@@ -347,6 +349,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/flick-23/leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/flick-23/leetcode/tree/master/0013-roman-to-integer) |
 | [0873-guess-the-word](https://github.com/flick-23/leetcode/tree/master/0873-guess-the-word) |
 | [0912-random-pick-with-weight](https://github.com/flick-23/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0976-minimum-area-rectangle](https://github.com/flick-23/leetcode/tree/master/0976-minimum-area-rectangle) |
