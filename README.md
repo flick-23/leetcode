@@ -133,6 +133,7 @@
 | [0045-jump-game-ii](https://github.com/flick-23/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/flick-23/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/flick-23/leetcode/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/flick-23/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/flick-23/leetcode/tree/master/0088-merge-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/flick-23/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/flick-23/leetcode/tree/master/0198-house-robber) |
@@ -186,6 +187,7 @@
 | [0005-longest-palindromic-substring](https://github.com/flick-23/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/flick-23/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/flick-23/leetcode/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/flick-23/leetcode/tree/master/0085-maximal-rectangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/flick-23/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/flick-23/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/flick-23/leetcode/tree/master/0213-house-robber-ii) |
@@ -204,6 +206,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/flick-23/leetcode/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/flick-23/leetcode/tree/master/0289-game-of-life) |
 | [0864-image-overlap](https://github.com/flick-23/leetcode/tree/master/0864-image-overlap) |
 | [0967-minimum-falling-path-sum](https://github.com/flick-23/leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -307,6 +310,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/flick-23/leetcode/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/flick-23/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/flick-23/leetcode/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/flick-23/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -367,6 +371,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/flick-23/leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/flick-23/leetcode/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/flick-23/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/flick-23/leetcode/tree/master/0943-sum-of-subarray-minimums) |
