@@ -19,6 +19,7 @@
 | [0210-course-schedule-ii](https://github.com/flick-23/leetcode/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/flick-23/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/flick-23/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/flick-23/leetcode/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/flick-23/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/flick-23/leetcode/tree/master/0547-number-of-provinces) |
 | [0863-sum-of-distances-in-tree](https://github.com/flick-23/leetcode/tree/master/0863-sum-of-distances-in-tree) |
@@ -224,6 +225,7 @@
 | [0133-clone-graph](https://github.com/flick-23/leetcode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/flick-23/leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/flick-23/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/flick-23/leetcode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/flick-23/leetcode/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/flick-23/leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/flick-23/leetcode/tree/master/1380-number-of-closed-islands) |
@@ -236,6 +238,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/flick-23/leetcode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/flick-23/leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/flick-23/leetcode/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/flick-23/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/flick-23/leetcode/tree/master/0547-number-of-provinces) |
 | [0863-sum-of-distances-in-tree](https://github.com/flick-23/leetcode/tree/master/0863-sum-of-distances-in-tree) |
@@ -247,6 +250,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/flick-23/leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/flick-23/leetcode/tree/master/0310-minimum-height-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/flick-23/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/flick-23/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Union Find
