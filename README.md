@@ -31,6 +31,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/flick-23/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/flick-23/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/flick-23/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/flick-23/leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -237,6 +238,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/flick-23/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/flick-23/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/flick-23/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/flick-23/leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Graph
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/flick-23/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/flick-23/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/flick-23/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/flick-23/leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -286,6 +289,7 @@
 | [1249-snapshot-array](https://github.com/flick-23/leetcode/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/flick-23/leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/flick-23/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/flick-23/leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## String Matching
 |  |
 | ------- |
@@ -474,6 +478,7 @@
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/flick-23/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/flick-23/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/flick-23/leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Eulerian Circuit
 |  |
 | ------- |
