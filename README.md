@@ -64,6 +64,7 @@
 | [0876-hand-of-straights](https://github.com/flick-23/leetcode/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/flick-23/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0976-minimum-area-rectangle](https://github.com/flick-23/leetcode/tree/master/0976-minimum-area-rectangle) |
+| [1039-find-the-town-judge](https://github.com/flick-23/leetcode/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/flick-23/leetcode/tree/master/1129-longest-string-chain) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/flick-23/leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1207-delete-nodes-and-return-forest](https://github.com/flick-23/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -166,6 +167,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/flick-23/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0976-minimum-area-rectangle](https://github.com/flick-23/leetcode/tree/master/0976-minimum-area-rectangle) |
 | [0983-validate-stack-sequences](https://github.com/flick-23/leetcode/tree/master/0983-validate-stack-sequences) |
+| [1039-find-the-town-judge](https://github.com/flick-23/leetcode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/flick-23/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/flick-23/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/flick-23/leetcode/tree/master/1073-number-of-enclaves) |
@@ -244,6 +246,7 @@
 | [0332-reconstruct-itinerary](https://github.com/flick-23/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/flick-23/leetcode/tree/master/0547-number-of-provinces) |
 | [0863-sum-of-distances-in-tree](https://github.com/flick-23/leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [1039-find-the-town-judge](https://github.com/flick-23/leetcode/tree/master/1039-find-the-town-judge) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/flick-23/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/flick-23/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/flick-23/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
