@@ -31,14 +31,19 @@ public:
                     continue;
 
                 // minimum time to reach (r, s)
-                int w = ((grid[r][s] - t) & 1) ? 0 : 1;
-                int nextTime =
-                    max(t + 1, grid[r][s] + w); // backward if neccessary
+                int wait_time = grid[r][s];
+                int next_time = t + 1;
+
+                // Wait until we can step on this cell
+                if (next_time < wait_time) {
+                    int diff = wait_time - next_time;
+                    next_time += (diff % 2 == 0) ? diff : diff + 1;
+                }
 
                 // update if this path having quicker time
-                if (nextTime < time[r][s]) {
-                    time[r][s] = nextTime;
-                    pq.emplace(nextTime, r, s);
+                if (next_time < time[r][s]) {
+                    time[r][s] = next_time;
+                    pq.emplace(next_time, r, s);
                 }
             }
         }
