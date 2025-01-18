@@ -81,6 +81,7 @@
 | [0005-longest-palindromic-substring](https://github.com/flick-23/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/flick-23/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/flick-23/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/flick-23/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/flick-23/leetcode/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/flick-23/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/flick-23/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -138,6 +139,7 @@
 | [0031-next-permutation](https://github.com/flick-23/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/flick-23/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/flick-23/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/flick-23/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/flick-23/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/flick-23/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/flick-23/leetcode/tree/master/0053-maximum-subarray) |
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/flick-23/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/flick-23/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/flick-23/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/flick-23/leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/flick-23/leetcode/tree/master/0085-maximal-rectangle) |
@@ -335,6 +338,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/flick-23/leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/flick-23/leetcode/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/flick-23/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/flick-23/leetcode/tree/master/0402-remove-k-digits) |
@@ -398,6 +402,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/flick-23/leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/flick-23/leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/flick-23/leetcode/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/flick-23/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
