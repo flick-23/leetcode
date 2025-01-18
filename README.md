@@ -380,6 +380,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/flick-23/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/flick-23/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/flick-23/leetcode/tree/master/0013-roman-to-integer) |
 | [0873-guess-the-word](https://github.com/flick-23/leetcode/tree/master/0873-guess-the-word) |
@@ -392,6 +393,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/flick-23/leetcode/tree/master/0002-add-two-numbers) |
 | [0394-decode-string](https://github.com/flick-23/leetcode/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
@@ -495,4 +497,8 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/flick-23/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/flick-23/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
