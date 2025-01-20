@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/flick-23/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/flick-23/leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/flick-23/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/flick-23/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/flick-23/leetcode/tree/master/0042-trapping-rain-water) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/flick-23/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/flick-23/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/flick-23/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/flick-23/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/flick-23/leetcode/tree/master/0041-first-missing-positive) |
@@ -369,6 +371,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/flick-23/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/flick-23/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/flick-23/leetcode/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/flick-23/leetcode/tree/master/0295-find-median-from-data-stream) |
