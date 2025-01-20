@@ -202,6 +202,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/flick-23/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/flick-23/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/flick-23/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3643-zero-array-transformation-ii](https://github.com/flick-23/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -311,6 +312,7 @@
 | [1249-snapshot-array](https://github.com/flick-23/leetcode/tree/master/1249-snapshot-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/flick-23/leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/flick-23/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3643-zero-array-transformation-ii](https://github.com/flick-23/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/flick-23/leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## String Matching
 |  |
@@ -348,6 +350,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/flick-23/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/flick-23/leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/flick-23/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3643-zero-array-transformation-ii](https://github.com/flick-23/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Stack
 |  |
 | ------- |
