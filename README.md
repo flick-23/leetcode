@@ -83,6 +83,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/flick-23/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/flick-23/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/flick-23/leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/flick-23/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/flick-23/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/flick-23/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/flick-23/leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -148,6 +149,7 @@
 | [0045-jump-game-ii](https://github.com/flick-23/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/flick-23/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/flick-23/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/flick-23/leetcode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/flick-23/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/flick-23/leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/flick-23/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -380,6 +382,7 @@
 | ------- |
 | [0015-3sum](https://github.com/flick-23/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/flick-23/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/flick-23/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/flick-23/leetcode/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/flick-23/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/flick-23/leetcode/tree/master/0347-top-k-frequent-elements) |
