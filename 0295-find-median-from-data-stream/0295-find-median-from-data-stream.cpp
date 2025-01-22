@@ -1,7 +1,7 @@
 class MedianFinder {
 public:
-    priority_queue<int, vector<int>, greater<int>> minHeap;
-    priority_queue<int> maxHeap;
+    priority_queue<int, vector<int>, greater<int>> minHeap; //stores larger elements of the stream
+    priority_queue<int> maxHeap; //stores smaller elements of the stream
     MedianFinder() {}
 
     void addNum(int num) {
