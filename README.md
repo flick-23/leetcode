@@ -162,6 +162,7 @@
 | [0088-merge-sorted-array](https://github.com/flick-23/leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/flick-23/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/flick-23/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0136-single-number](https://github.com/flick-23/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/flick-23/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/flick-23/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/flick-23/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -505,6 +506,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/flick-23/leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/flick-23/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Indexed Tree
 |  |
