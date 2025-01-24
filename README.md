@@ -93,6 +93,7 @@
 | [0827-expressive-words](https://github.com/flick-23/leetcode/tree/master/0827-expressive-words) |
 | [1129-longest-string-chain](https://github.com/flick-23/leetcode/tree/master/1129-longest-string-chain) |
 | [1894-merge-strings-alternately](https://github.com/flick-23/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/flick-23/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## String
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/flick-23/leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1508-longest-happy-prefix](https://github.com/flick-23/leetcode/tree/master/1508-longest-happy-prefix) |
 | [1894-merge-strings-alternately](https://github.com/flick-23/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/flick-23/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/flick-23/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/flick-23/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Greedy
