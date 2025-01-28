@@ -76,6 +76,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/flick-23/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/flick-23/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/flick-23/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3699-count-special-subsequences](https://github.com/flick-23/leetcode/tree/master/3699-count-special-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -218,6 +219,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/flick-23/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/flick-23/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3643-zero-array-transformation-ii](https://github.com/flick-23/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3699-count-special-subsequences](https://github.com/flick-23/leetcode/tree/master/3699-count-special-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -432,6 +434,7 @@
 | [0873-guess-the-word](https://github.com/flick-23/leetcode/tree/master/0873-guess-the-word) |
 | [0912-random-pick-with-weight](https://github.com/flick-23/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0976-minimum-area-rectangle](https://github.com/flick-23/leetcode/tree/master/0976-minimum-area-rectangle) |
+| [3699-count-special-subsequences](https://github.com/flick-23/leetcode/tree/master/3699-count-special-subsequences) |
 ## Randomized
 |  |
 | ------- |
@@ -550,4 +553,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/flick-23/leetcode/tree/master/0002-add-two-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3699-count-special-subsequences](https://github.com/flick-23/leetcode/tree/master/3699-count-special-subsequences) |
 <!---LeetCode Topics End-->
