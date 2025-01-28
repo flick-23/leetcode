@@ -443,6 +443,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/flick-23/leetcode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/flick-23/leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/flick-23/leetcode/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
@@ -553,6 +554,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/flick-23/leetcode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/flick-23/leetcode/tree/master/0206-reverse-linked-list) |
 ## Enumeration
 |  |
 | ------- |
