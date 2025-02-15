@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/flick-23/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/flick-23/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/flick-23/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/flick-23/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/flick-23/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -15,6 +16,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/flick-23/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/flick-23/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/flick-23/leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/flick-23/leetcode/tree/master/0210-course-schedule-ii) |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/flick-23/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/flick-23/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/flick-23/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/flick-23/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/flick-23/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -231,6 +234,7 @@
 | [0085-maximal-rectangle](https://github.com/flick-23/leetcode/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/flick-23/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/flick-23/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/flick-23/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/flick-23/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/flick-23/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/flick-23/leetcode/tree/master/0213-house-robber-ii) |
