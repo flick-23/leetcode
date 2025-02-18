@@ -98,6 +98,7 @@
 | [0827-expressive-words](https://github.com/flick-23/leetcode/tree/master/0827-expressive-words) |
 | [1129-longest-string-chain](https://github.com/flick-23/leetcode/tree/master/1129-longest-string-chain) |
 | [1894-merge-strings-alternately](https://github.com/flick-23/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/flick-23/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/flick-23/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## String
 |  |
@@ -562,6 +563,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/flick-23/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/flick-23/leetcode/tree/master/0206-reverse-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/flick-23/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Enumeration
 |  |
 | ------- |
