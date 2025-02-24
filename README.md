@@ -139,6 +139,7 @@
 | [0045-jump-game-ii](https://github.com/flick-23/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/flick-23/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/flick-23/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/flick-23/leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/flick-23/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/flick-23/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/flick-23/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -168,6 +169,7 @@
 | [0088-merge-sorted-array](https://github.com/flick-23/leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/flick-23/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/flick-23/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/flick-23/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/flick-23/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/flick-23/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/flick-23/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
