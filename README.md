@@ -228,6 +228,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/flick-23/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3643-zero-array-transformation-ii](https://github.com/flick-23/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3699-count-special-subsequences](https://github.com/flick-23/leetcode/tree/master/3699-count-special-subsequences) |
+| [3763-separate-squares-i](https://github.com/flick-23/leetcode/tree/master/3763-separate-squares-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -348,6 +349,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/flick-23/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3643-zero-array-transformation-ii](https://github.com/flick-23/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/flick-23/leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
+| [3763-separate-squares-i](https://github.com/flick-23/leetcode/tree/master/3763-separate-squares-i) |
 ## String Matching
 |  |
 | ------- |
