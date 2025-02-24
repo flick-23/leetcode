@@ -78,6 +78,7 @@
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/flick-23/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/flick-23/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/flick-23/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2107-find-unique-binary-string](https://github.com/flick-23/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/flick-23/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/flick-23/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3699-count-special-subsequences](https://github.com/flick-23/leetcode/tree/master/3699-count-special-subsequences) |
@@ -130,6 +131,7 @@
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/flick-23/leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1508-longest-happy-prefix](https://github.com/flick-23/leetcode/tree/master/1508-longest-happy-prefix) |
 | [1894-merge-strings-alternately](https://github.com/flick-23/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2107-find-unique-binary-string](https://github.com/flick-23/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/flick-23/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/flick-23/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/flick-23/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -222,6 +224,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/flick-23/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/flick-23/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/flick-23/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2107-find-unique-binary-string](https://github.com/flick-23/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/flick-23/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2448-count-number-of-bad-pairs](https://github.com/flick-23/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/flick-23/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -551,6 +554,7 @@
 |  |
 | ------- |
 | [1361-tiling-a-rectangle-with-the-fewest-squares](https://github.com/flick-23/leetcode/tree/master/1361-tiling-a-rectangle-with-the-fewest-squares) |
+| [2107-find-unique-binary-string](https://github.com/flick-23/leetcode/tree/master/2107-find-unique-binary-string) |
 ## Shortest Path
 |  |
 | ------- |
