@@ -9,11 +9,7 @@ public:
         string original = nums[0];
         for(int i = 0; i < n; i++){
             char ch = nums[0][i];
-            if(ch == '0'){
-                ch = '1';
-            } else{
-                ch = '0';
-            }
+            ch = ch == '0'? '1':'0';
             string mutated = original;
             mutated[i]=ch;
             if(mpp[mutated] == 0){
