@@ -180,6 +180,7 @@
 | [0198-house-robber](https://github.com/flick-23/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/flick-23/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/flick-23/leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/flick-23/leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/flick-23/leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/flick-23/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/flick-23/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -249,6 +250,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/flick-23/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/flick-23/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/flick-23/leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/flick-23/leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/flick-23/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/flick-23/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0410-split-array-largest-sum](https://github.com/flick-23/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -268,6 +270,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/flick-23/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/flick-23/leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/flick-23/leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/flick-23/leetcode/tree/master/0289-game-of-life) |
 | [0864-image-overlap](https://github.com/flick-23/leetcode/tree/master/0864-image-overlap) |
 | [0967-minimum-falling-path-sum](https://github.com/flick-23/leetcode/tree/master/0967-minimum-falling-path-sum) |
