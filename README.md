@@ -176,6 +176,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/flick-23/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/flick-23/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/flick-23/leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/flick-23/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/flick-23/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/flick-23/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/flick-23/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -405,6 +406,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/flick-23/leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/flick-23/leetcode/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/flick-23/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/flick-23/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/flick-23/leetcode/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/flick-23/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -457,6 +459,7 @@
 | [0007-reverse-integer](https://github.com/flick-23/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/flick-23/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/flick-23/leetcode/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/flick-23/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/flick-23/leetcode/tree/master/0189-rotate-array) |
 | [0873-guess-the-word](https://github.com/flick-23/leetcode/tree/master/0873-guess-the-word) |
 | [0912-random-pick-with-weight](https://github.com/flick-23/leetcode/tree/master/0912-random-pick-with-weight) |
