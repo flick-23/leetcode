@@ -1,38 +1,36 @@
 class Solution {
 public:
-    void dfs(int vtx, vector<int> adj[], vector<int>& visited) {
-        visited[vtx] = 1;
-
-        for (auto it : adj[vtx]) {
-            if (!visited[it]) {
-                dfs(it, adj, visited);
+    void bfs(int node, vector<vector<int>>& adj, vector<int>& visited){
+        queue<int>q;
+        q.push(adj[node][0]);
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            visited[node] = 1;
+            for(int it : adj[node]){
+                if(visited[it] == 0)
+                    q.push(it);
             }
         }
     }
-
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int v = isConnected.size();
-        vector<int> visited(v, 0);
-        int no_provinces = 0;
-
-        vector<int> adj[v];
-
-        for (int i = 0; i < v; i++) {
-            for (int j = 0; j < v; j++) {
-                if (isConnected[i][j]) {
+        int n = isConnected.size();
+        vector<vector<int>>adj(n);
+        vector<int>visited(n,0);
+        int i,j;
+        for(i = 0; i < n; i++){
+            for(j = 0; j < isConnected[i].size(); j++){
+                if(isConnected[i][j] == 1)
                     adj[i].push_back(j);
-                    adj[j].push_back(i);
-                }
             }
         }
-
-        for (int i = 0; i < v; i++) {
-            if (!visited[i]) {
-                dfs(i, adj, visited);
-                no_provinces++;
+        int provinces = 0;
+        for(i = 0; i < n; i++){
+            if(visited[i] == 0){
+                provinces++;
+                bfs(i,adj,visited);
             }
         }
-
-        return no_provinces;
+        return provinces;
     }
 };
