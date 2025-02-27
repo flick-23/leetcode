@@ -163,6 +163,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/flick-23/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/flick-23/leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/flick-23/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/flick-23/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Array
 |  |
 | ------- |
@@ -249,6 +250,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/flick-23/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3643-zero-array-transformation-ii](https://github.com/flick-23/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3699-count-special-subsequences](https://github.com/flick-23/leetcode/tree/master/3699-count-special-subsequences) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/flick-23/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3763-separate-squares-i](https://github.com/flick-23/leetcode/tree/master/3763-separate-squares-i) |
 ## Dynamic Programming
 |  |
@@ -405,6 +407,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/flick-23/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/flick-23/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/flick-23/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/flick-23/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |
 | ------- |
