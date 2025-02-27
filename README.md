@@ -164,6 +164,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/flick-23/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/flick-23/leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/flick-23/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3647-zero-array-transformation-iii](https://github.com/flick-23/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/flick-23/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Array
 |  |
@@ -251,6 +252,7 @@
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/flick-23/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/flick-23/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3643-zero-array-transformation-ii](https://github.com/flick-23/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/flick-23/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3699-count-special-subsequences](https://github.com/flick-23/leetcode/tree/master/3699-count-special-subsequences) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/flick-23/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3763-separate-squares-i](https://github.com/flick-23/leetcode/tree/master/3763-separate-squares-i) |
@@ -421,6 +423,7 @@
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/flick-23/leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/flick-23/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3643-zero-array-transformation-ii](https://github.com/flick-23/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/flick-23/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Stack
 |  |
 | ------- |
@@ -464,6 +467,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/flick-23/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/flick-23/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/flick-23/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3647-zero-array-transformation-iii](https://github.com/flick-23/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
 |  |
 | ------- |
@@ -525,6 +529,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/flick-23/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/flick-23/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/flick-23/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3647-zero-array-transformation-iii](https://github.com/flick-23/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Bucket Sort
 |  |
 | ------- |
