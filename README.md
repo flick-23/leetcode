@@ -139,6 +139,7 @@
 | [1894-merge-strings-alternately](https://github.com/flick-23/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2107-find-unique-binary-string](https://github.com/flick-23/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/flick-23/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/flick-23/leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/flick-23/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/flick-23/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Greedy
@@ -160,6 +161,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/flick-23/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/flick-23/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/flick-23/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/flick-23/leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/flick-23/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Array
 |  |
