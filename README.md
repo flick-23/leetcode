@@ -13,6 +13,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/flick-23/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/flick-23/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/flick-23/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/flick-23/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0863-sum-of-distances-in-tree](https://github.com/flick-23/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/flick-23/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/flick-23/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -64,6 +65,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/flick-23/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/flick-23/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/flick-23/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/flick-23/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/flick-23/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/flick-23/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/flick-23/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -394,6 +396,7 @@
 | [0295-find-median-from-data-stream](https://github.com/flick-23/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/flick-23/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/flick-23/leetcode/tree/master/0355-design-twitter) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/flick-23/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1249-snapshot-array](https://github.com/flick-23/leetcode/tree/master/1249-snapshot-array) |
 ## Binary Search Tree
 |  |
@@ -406,6 +409,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/flick-23/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/flick-23/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/flick-23/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/flick-23/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/flick-23/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/flick-23/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/flick-23/leetcode/tree/master/0912-random-pick-with-weight) |
@@ -562,6 +566,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/flick-23/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/flick-23/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/flick-23/leetcode/tree/master/0778-reorganize-string) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/flick-23/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/flick-23/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/flick-23/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/flick-23/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -583,6 +588,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/flick-23/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/flick-23/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
 | ------- |
