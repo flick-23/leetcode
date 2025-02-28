@@ -1,38 +1,40 @@
 class Solution {
 public:
-    bool isValid(int i, int j, int row, int col) {
-        return i >= 0 && j >= 0 && i < row && j < col;
-    }
-    int dfs(int i, int j, int n, int m, vector<vector<int>>& dp,
-            vector<vector<int>>& matrix) {
-        if (dp[i][j] != -1) {
+    // Directions for movement: {up, right, down, left}
+    static constexpr int directions[4][2] = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
+
+    int rows, cols;
+
+    int dfs(int i, int j, vector<vector<int>>& matrix,
+            vector<vector<int>>& dp) {
+        if (dp[i][j] != -1)
             return dp[i][j];
-        }
-        int maxPath = 1;
-        int dx[] = {-1, 0, 1, 0};
-        int dy[] = {0, 1, 0, -1};
-        for (int k = 0; k < 4; k++) {
-            int x = i + dx[k];
-            int y = j + dy[k];
-            if (isValid(x, y, n, m)) {
-                if (matrix[i][j] > matrix[x][y]) {
-                    maxPath = max(1 + dfs(x, y, n, m, dp, matrix), maxPath);
-                }
+
+        int maxPath = 1; // At least the current cell itself
+        for (const auto& dir : directions) {
+            int x = i + dir[0], y = j + dir[1];
+
+            // Check bounds and increasing condition
+            if (x >= 0 && x < rows && y >= 0 && y < cols &&
+                matrix[x][y] > matrix[i][j]) {
+                maxPath = max(maxPath, 1 + dfs(x, y, matrix, dp));
             }
         }
+
         return dp[i][j] = maxPath;
     }
-    int longestIncreasingPath(vector<vector<int>>& matrix) {
-        int rows = matrix.size();
-        int cols = matrix[0].size();
-        vector<vector<int>> dp(rows, vector<int>(cols, -1));
-        int ans = 0;
 
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                ans = max(ans, dfs(i, j, rows, cols, dp, matrix));
+    int longestIncreasingPath(vector<vector<int>>& matrix) {
+        rows = matrix.size(), cols = matrix[0].size();
+        vector<vector<int>> dp(rows, vector<int>(cols, -1));
+        int maxLength = 0;
+
+        for (int i = 0; i < rows; ++i) {
+            for (int j = 0; j < cols; ++j) {
+                maxLength = max(maxLength, dfs(i, j, matrix, dp));
             }
         }
-        return ans;
+
+        return maxLength;
     }
 };
