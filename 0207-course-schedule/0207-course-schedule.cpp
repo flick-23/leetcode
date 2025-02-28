@@ -4,6 +4,7 @@ public:
         vector<int>indegree(numCourses);
         vector<vector<int>>adj(numCourses);
         queue<int>q;
+        int courseCount = 0;
         for(int i = 0; i < prerequisites.size(); i++){
             int u = prerequisites[i][0];
             int v = prerequisites[i][1];
@@ -16,6 +17,7 @@ public:
             }
         }
         while(!q.empty()){
+            courseCount++;
             int node = q.front();
             q.pop();
             for(auto adjNode : adj[node]){
@@ -25,11 +27,7 @@ public:
                 }
             }
         }
-        for(int i = 0; i < numCourses; i++){
-            if(indegree[i] != 0){
-                return false;
-            }
-        }
-        return true;
+       
+        return courseCount == numCourses;
     }
 };
