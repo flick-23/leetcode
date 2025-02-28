@@ -3,6 +3,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/flick-23/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/flick-23/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/flick-23/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/flick-23/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -21,6 +22,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/flick-23/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/flick-23/leetcode/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/flick-23/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/flick-23/leetcode/tree/master/0133-clone-graph) |
@@ -50,6 +52,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/flick-23/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/flick-23/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/flick-23/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/flick-23/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -324,6 +327,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/flick-23/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/flick-23/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/flick-23/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0133-clone-graph](https://github.com/flick-23/leetcode/tree/master/0133-clone-graph) |
