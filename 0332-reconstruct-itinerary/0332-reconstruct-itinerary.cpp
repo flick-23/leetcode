@@ -13,7 +13,9 @@ public:
         unordered_map<string, vector<string>> graph;
 
         for (auto& ticket : tickets) {
-            graph[ticket[0]].push_back(ticket[1]);
+            string from = ticket[0];
+            string to = ticket[1];
+            graph[from].push_back(to);
         }
 
         for (auto& [_, destinations] : graph) {
