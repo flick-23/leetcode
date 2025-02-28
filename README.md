@@ -16,6 +16,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/flick-23/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/flick-23/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/flick-23/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/flick-23/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/flick-23/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/flick-23/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/flick-23/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/flick-23/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/flick-23/leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Binary Tree
 |  |
@@ -58,6 +60,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/flick-23/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/flick-23/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/flick-23/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/flick-23/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -259,6 +262,7 @@
 | [2107-find-unique-binary-string](https://github.com/flick-23/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/flick-23/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2448-count-number-of-bad-pairs](https://github.com/flick-23/leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/flick-23/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/flick-23/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/flick-23/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/flick-23/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -333,6 +337,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/flick-23/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/flick-23/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/flick-23/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/flick-23/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/flick-23/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/flick-23/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/flick-23/leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
