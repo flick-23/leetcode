@@ -57,6 +57,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/flick-23/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/flick-23/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/flick-23/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/flick-23/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/flick-23/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/flick-23/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/flick-23/leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
@@ -391,6 +392,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/flick-23/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1916-find-center-of-star-graph](https://github.com/flick-23/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/flick-23/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/flick-23/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/flick-23/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/flick-23/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/flick-23/leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -404,6 +406,7 @@
 | [0820-find-eventual-safe-states](https://github.com/flick-23/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/flick-23/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/flick-23/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/flick-23/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Union Find
 |  |
 | ------- |
