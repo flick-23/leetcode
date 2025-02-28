@@ -13,6 +13,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/flick-23/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/flick-23/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/flick-23/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/flick-23/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/flick-23/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/flick-23/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/flick-23/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -36,6 +37,7 @@
 | [0863-sum-of-distances-in-tree](https://github.com/flick-23/leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0871-keys-and-rooms](https://github.com/flick-23/leetcode/tree/master/0871-keys-and-rooms) |
 | [0988-flip-equivalent-binary-trees](https://github.com/flick-23/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/flick-23/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/flick-23/leetcode/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/flick-23/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1380-number-of-closed-islands](https://github.com/flick-23/leetcode/tree/master/1380-number-of-closed-islands) |
@@ -57,6 +59,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/flick-23/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/flick-23/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/flick-23/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/flick-23/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/flick-23/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/flick-23/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/flick-23/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -85,6 +88,7 @@
 | [0876-hand-of-straights](https://github.com/flick-23/leetcode/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/flick-23/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0976-minimum-area-rectangle](https://github.com/flick-23/leetcode/tree/master/0976-minimum-area-rectangle) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/flick-23/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/flick-23/leetcode/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/flick-23/leetcode/tree/master/1129-longest-string-chain) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/flick-23/leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -331,6 +335,7 @@
 | [0547-number-of-provinces](https://github.com/flick-23/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/flick-23/leetcode/tree/master/0684-redundant-connection) |
 | [0871-keys-and-rooms](https://github.com/flick-23/leetcode/tree/master/0871-keys-and-rooms) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/flick-23/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/flick-23/leetcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/flick-23/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/flick-23/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -481,6 +486,7 @@
 | [0862-find-and-replace-in-string](https://github.com/flick-23/leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0876-hand-of-straights](https://github.com/flick-23/leetcode/tree/master/0876-hand-of-straights) |
 | [0976-minimum-area-rectangle](https://github.com/flick-23/leetcode/tree/master/0976-minimum-area-rectangle) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/flick-23/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/flick-23/leetcode/tree/master/1129-longest-string-chain) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/flick-23/leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/flick-23/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
