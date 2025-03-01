@@ -247,6 +247,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/flick-23/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/flick-23/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/flick-23/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/flick-23/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/flick-23/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/flick-23/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/flick-23/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -329,6 +330,7 @@
 | [0221-maximal-square](https://github.com/flick-23/leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/flick-23/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/flick-23/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/flick-23/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/flick-23/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/flick-23/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/flick-23/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -374,6 +376,7 @@
 | [0226-invert-binary-tree](https://github.com/flick-23/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/flick-23/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/flick-23/leetcode/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/flick-23/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/flick-23/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/flick-23/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/flick-23/leetcode/tree/master/0684-redundant-connection) |
