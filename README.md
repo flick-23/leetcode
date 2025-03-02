@@ -319,6 +319,7 @@
 | [0045-jump-game-ii](https://github.com/flick-23/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/flick-23/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/flick-23/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/flick-23/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/flick-23/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/flick-23/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/flick-23/leetcode/tree/master/0118-pascals-triangle) |
@@ -584,6 +585,7 @@
 | [0007-reverse-integer](https://github.com/flick-23/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/flick-23/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/flick-23/leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/flick-23/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/flick-23/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/flick-23/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/flick-23/leetcode/tree/master/0189-rotate-array) |
@@ -740,4 +742,8 @@
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/flick-23/leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/flick-23/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
