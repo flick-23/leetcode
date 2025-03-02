@@ -158,6 +158,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/flick-23/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/flick-23/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/flick-23/leetcode/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/flick-23/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/flick-23/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/flick-23/leetcode/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/flick-23/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -323,6 +324,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/flick-23/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/flick-23/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/flick-23/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/flick-23/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/flick-23/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/flick-23/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/flick-23/leetcode/tree/master/0198-house-robber) |
@@ -697,6 +699,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/flick-23/leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/flick-23/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1361-tiling-a-rectangle-with-the-fewest-squares](https://github.com/flick-23/leetcode/tree/master/1361-tiling-a-rectangle-with-the-fewest-squares) |
 | [2107-find-unique-binary-string](https://github.com/flick-23/leetcode/tree/master/2107-find-unique-binary-string) |
 ## Shortest Path
