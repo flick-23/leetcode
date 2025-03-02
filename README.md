@@ -93,6 +93,7 @@
 | [0041-first-missing-positive](https://github.com/flick-23/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/flick-23/leetcode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/flick-23/leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/flick-23/leetcode/tree/master/0139-word-break) |
 | [0299-bulls-and-cows](https://github.com/flick-23/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/flick-23/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/flick-23/leetcode/tree/master/0355-design-twitter) |
@@ -161,6 +162,7 @@
 | [0049-group-anagrams](https://github.com/flick-23/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/flick-23/leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/flick-23/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/flick-23/leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/flick-23/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/flick-23/leetcode/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/flick-23/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -237,6 +239,7 @@
 | [0134-gas-station](https://github.com/flick-23/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/flick-23/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/flick-23/leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/flick-23/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/flick-23/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/flick-23/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/flick-23/leetcode/tree/master/0162-find-peak-element) |
@@ -335,6 +338,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/flick-23/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/flick-23/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/flick-23/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/flick-23/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/flick-23/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/flick-23/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/flick-23/leetcode/tree/master/0198-house-robber) |
@@ -629,6 +633,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/flick-23/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/flick-23/leetcode/tree/master/0139-word-break) |
 | [0648-replace-words](https://github.com/flick-23/leetcode/tree/master/0648-replace-words) |
 ## Heap (Priority Queue)
 |  |
@@ -733,6 +738,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/flick-23/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/flick-23/leetcode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/flick-23/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/flick-23/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Linked List
