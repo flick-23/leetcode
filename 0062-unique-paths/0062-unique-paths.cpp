@@ -3,11 +3,6 @@ public:
     int uniquePaths(int rows, int cols) {
         int j,i;
         vector<vector<int>> a(rows, vector<int>(cols, 0));
-        for(i=0;i<rows;i++){
-            for(j=0;j<cols;j++){
-                a[i][j]=0;
-            }
-        }
         a[0][0]=1;
         for(i=0;i<rows;i++){
             for(j=0;j<cols;j++){
