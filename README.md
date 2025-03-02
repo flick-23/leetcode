@@ -159,6 +159,7 @@
 | [0032-longest-valid-parentheses](https://github.com/flick-23/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/flick-23/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/flick-23/leetcode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/flick-23/leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/flick-23/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/flick-23/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/flick-23/leetcode/tree/master/0214-shortest-palindrome) |
@@ -326,6 +327,7 @@
 | [0063-unique-paths-ii](https://github.com/flick-23/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/flick-23/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/flick-23/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/flick-23/leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/flick-23/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/flick-23/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/flick-23/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
